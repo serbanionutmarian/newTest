@@ -45,6 +45,7 @@ namespace WebApplication10
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+            var g = 2;
         }
     }
 }
